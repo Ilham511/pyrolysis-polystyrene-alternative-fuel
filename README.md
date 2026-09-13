@@ -53,3 +53,22 @@ Physicochemical Testing
 | ----------- | ---------: | ----------: | ----------------: | ----------: |
 | 250°C       |   2,752 mL | 0.7044 g/mL |       0.795 mm²/s |      25.0°C |
 | 300°C       |   6,601 mL | 0.8804 g/mL |               0.8 |             |
+
+## Project Gallery
+
+### PITARA Reactor
+![PITARA Reactor](images/PITARA%20Reactor%20Photo.jpg)
+
+### Pyrolysis Oil Product
+![Pyrolysis Oil Product](images/Pyrolysis%20Oil%20Product%20Photo.jpg)
+
+## Experimental Results
+
+### Flash Point
+![Flash Point](images/GRAFIK%20FLASH%20POINT.png)
+
+### Viscosity
+![Viscosity](images/VISKOSITAS.png)
+
+### Laboratory Test vs ESDM Standard
+![Laboratory Test vs ESDM Standard](images/lab-test-vs-esdm.jpg)
